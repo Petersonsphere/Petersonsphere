@@ -14,7 +14,8 @@ This website will help you search for information.
 - [[Sources/Jordan Peterson]]
 - [[Sources/Jordan Peterson Clips]]
 - [[Sources/Navigating Patterns]]
-- [[Sources/Paul Vanderklay]]
 - [[Sources/The Republic (Plato) Discussions]]
 
 *These transcripts were created by using Whisper to transcribe audio files to text.*
+
+For more sources, see:
