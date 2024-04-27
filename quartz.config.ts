@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "google", tagId: "G-G6599Y79MS",
     },
     locale: "en-US",
-    baseUrl: "",
+    baseUrl: "petersonsphere.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
